@@ -4,8 +4,6 @@
 
 <p align='right'>hz_gjf@163.com</p>
 
-<img src="./images/wechat.jpg" width = 300 height = 400>
-
 ## Home（Document、Example...）:
 
 [![home](./images/home.png)](https://sxguojf.github.io/three-tile-doc/)
@@ -22,19 +20,13 @@ Note: This is neither Cesium nor Mapbox-gl, and it has no relationship with thes
 
 Source: [https://github.com/sxguojf/three-tile](https://github.com/sxguojf/three-tile)
 
-Demo: [https://sxguojf.github.io/mydemo/three-tile/index.html](https://sxguojf.github.io/mydemo/three-tile/index.html)
 
 Document: [https://sxguojf.github.io/three-tile-doc/](https://sxguojf.github.io/three-tile-doc/)
 
 Some development examples are provided:
 
-Examples Source: [https://github.com/sxguojf/three-tile-example](https://github.com/sxguojf/three-tile-example)
-
 Examples: [https://sxguojf.github.io/three-tile-example](https://sxguojf.github.io/three-tile-example)
 
-Developed using Vue:
-
-[https://sxguojf.github.io/mydemo/three-tile-vue/index.html](https://sxguojf.github.io/mydemo/three-tile-vue/index.html)
 
 | ![alt text](images/image-3.png)                                | ![alt text](images/image-4.png)                                |
 | -------------------------------------------------------------- | -------------------------------------------------------------- |
