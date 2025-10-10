@@ -4,7 +4,6 @@
 
 <p align='right'>hz_gjf@163.com</p>
 
-<img src="./images/wechat.jpg" width = 300 height = 400>
 
 ## 文档、示例：
 
@@ -22,8 +21,6 @@ three-tile 是一个基于 [threejs](https://threejs.org/)开发的轻量级三�
 
 Source: https://github.com/sxguojf/three-tile
 
-demo: https://sxguojf.github.io/mydemo/three-tile/index.html
-
 Document: https://sxguojf.github.io/three-tile-doc/
 
 提供一些开发示例：
@@ -32,9 +29,6 @@ Examples Source： https://github.com/sxguojf/three-tile-example
 
 Examples: https://sxguojf.github.io/three-tile-example
 
-使用 vue 开发：
-
-https://sxguojf.github.io/mydemo/three-tile-vue/index.html
 
 | ![alt text](images/image-3.png)                                | ![alt text](images/image-4.png)                                |
 | -------------------------------------------------------------- | -------------------------------------------------------------- |
